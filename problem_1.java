@@ -10,9 +10,9 @@ public class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 	 int sum = 0;
-    for (int i = 3; i < 1000; i++) {
+    for (int i = 3; i < 1000; i++) {       /*This problem has to deal with multiplier of 3 and 5 either any of them */
         if (i % 3 == 0 || i % 5 == 0) {
-            sum += i;
+            sum += i;  
         }
     }
     System.out.println(sum);
