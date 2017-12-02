@@ -1,11 +1,18 @@
-/* package whatever; // don't place package name! */
+/* -------------Md Shohidul Islam------------- 
+------Information and communication system engineering ----------------
+-------Faculty of integrated science----------------
+------Universiti Brunei Darussalam----------------
+
+*/
+
+
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-public class Ideone
+public class problem_no:1
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
